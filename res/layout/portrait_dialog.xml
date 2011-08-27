@@ -1,25 +1,114 @@
 <LinearLayout 
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	android:id="@+id/PortraitDialogView"
+	android:id="@+id/portraitDialogView"
     android:orientation="vertical"
     android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
+    android:layout_height="wrap_content"
     >
-    <ImageView
-    	android:id="@+id/portrait_dialog_ImageView"
-    	android:layout_width="wrap_content"
-    	android:layout_height="fill_parent"
-    />
-    <TextView
-    	android:id="@+id/portrait_dialog_TextView"
+    <LinearLayout 
+    	android:id="@+id/portraitLinearLayout_Image"
     	android:layout_width="fill_parent"
-    	android:layout_height="fill_parent"
-    	android:gravity="center_horizontal"
-    />
-    <Button
-    	android:id="@+id/portrait_dialog_Button1"
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical"
+    	android:padding="10dp"
+    	>
+    	<ImageView
+	    	android:id="@+id/portrait_dialog_ImageView_Portrait"
+	    	android:layout_width="wrap_content"
+	    	android:layout_height="wrap_content"
+			android:layout_gravity="center_horizontal"
+			android:gravity="center_horizontal"
+    		android:src="@drawable/hagrid1"    	
+	    />
+	</LinearLayout>
+	<LinearLayout 
+	    	android:id="@+id/portraitLinearLayout_Text"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:orientation="vertical"
+	   		android:paddingLeft="10dp"
+	   		android:paddingRight="10dp"
+    	>
+	    <TextView
+	    	android:id="@+id/portrait_dialog_TextView_Text"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:gravity="center"
+			android:text="Hagrid"
+	    />
+    </LinearLayout>
+    <LinearLayout 
+    	android:id="@+id/portraitLinearLayout_Options"
     	android:layout_width="fill_parent"
-    	android:layout_height="fill_parent"
-    	android:gravity="center_horizontal"
-   	/>
+    	android:layout_height="wrap_content"
+    	android:orientation="vertical"
+    	>
+    	<TextView
+    		android:id="@+id/portrait_dialog_TextView_Options_1"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:layout_weight="1"
+    		android:padding="5dp"
+    		android:text="Option 1"
+    		android:visibility="gone"
+    	/>
+    	<TextView
+    		android:id="@+id/portrait_dialog_TextView_Options_2"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:layout_weight="1"
+    		android:padding="5dp"
+    		android:text="Option 2"
+    		android:visibility="gone"
+    	/>
+    	<TextView
+    		android:id="@+id/portrait_dialog_TextView_Options_3"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:layout_weight="1"
+    		android:padding="5dp"
+    		android:text="Option 3"
+    		android:visibility="gone"
+    	/>
+    	<TextView
+    		android:id="@+id/portrait_dialog_TextView_Options_4"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:layout_weight="1"
+    		android:padding="5dp"
+    		android:text="Option 4"
+    		android:visibility="gone"
+    	/>
+    	<TextView
+    		android:id="@+id/portrait_dialog_TextView_Options_5"
+    		android:layout_width="fill_parent"
+    		android:layout_height="wrap_content"
+    		android:layout_weight="1"
+    		android:padding="5dp"
+    		android:text="Option 5"
+    		android:visibility="gone"
+    	/>
+    </LinearLayout>
+    <LinearLayout 
+    	android:id="@+id/portraitLinearLayout_Button"
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+    	android:padding="5dp"
+    	>
+	    <Button
+	    	android:id="@+id/portrait_dialog_Button_Play"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:layout_weight="1"
+	    	android:text="Play"
+	   	/>
+	   	<Button
+	    	android:id="@+id/portrait_dialog_Button_Cancel"
+	    	android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content"
+	    	android:layout_weight="1"
+	    	android:text="Cancel"
+	   	/>
+   	</LinearLayout>
 </LinearLayout>

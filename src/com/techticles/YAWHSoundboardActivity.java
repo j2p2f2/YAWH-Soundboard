@@ -77,44 +77,87 @@ public class YAWHSoundboardActivity extends Activity
     	conversation.add(new Portrait(this, R.drawable.harry11, R.string.harry11, R.raw.harry11));
     	
     	conversation.add(new Portrait(this, R.drawable.hagrid12, R.string.hagrid12, R.raw.hagrid12));
-    	conversation.add(new Portrait(this, R.drawable.harry12, R.string.harry12, R.raw.harry12));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid13, R.string.hagrid13, R.raw.hagrid13));
-    	conversation.add(new Portrait(this, R.drawable.harry13, R.string.harry13, R.raw.harry13));
+    	int[] harry12text = {R.string.harry12, R.string.harry12_1, R.string.harry12_2};
+    	int[] harry12sound = {R.raw.harry12};
+    	conversation.add(new Portrait(this, R.drawable.harry12, harry12text, harry12sound));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid14, R.string.hagrid14, R.raw.hagrid14));
-    	conversation.add(new Portrait(this, R.drawable.harry14, R.string.harry14, R.raw.harry14));
+    	int[] hagrid13text = {R.string.hagrid13, R.string.hagrid13_1};
+    	int[] hagrid13sound = {R.raw.hagrid13};
+    	conversation.add(new Portrait(this, R.drawable.hagrid13, hagrid13text, hagrid13sound));
+    	
+    	int[] harry13text = {R.string.harry13, R.string.harry13_1, R.string.harry13_2};
+    	int[] harry13sound = {R.raw.harry13};
+    	conversation.add(new Portrait(this, R.drawable.harry13, harry13text, harry13sound));
+    	
+    	int[] hagrid14text = {R.string.hagrid14, R.string.hagrid14_1, R.string.hagrid14_2, R.string.hagrid14_3};
+    	int[] hagrid14sound = {R.raw.hagrid14};
+    	conversation.add(new Portrait(this, R.drawable.hagrid14, hagrid14text, hagrid14sound));
+    	
+    	int[] harry14text = {R.string.harry14, R.string.harry14_1, R.string.harry14_2, R.string.harry14_3, R.string.harry14_4, R.string.harry14_5};
+    	int[] harry14sound = {R.raw.harry14};
+    	conversation.add(new Portrait(this, R.drawable.harry14, harry14text, harry14sound));
     	
     	conversation.add(new Portrait(this, R.drawable.hagrid15, R.string.hagrid15, R.raw.hagrid15));
-    	conversation.add(new Portrait(this, R.drawable.harry15, R.string.harry15, R.raw.harry15));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid16, R.string.hagrid16, R.raw.hagrid16));
+    	int[] harry15text = {R.string.harry15, R.string.harry15_1};
+    	int[] harry15sound = {R.raw.harry15};
+    	conversation.add(new Portrait(this, R.drawable.harry15, harry15text, harry15sound));
+    	
+    	int[] hagrid16text = {R.string.hagrid16, R.string.hagrid16_1, R.string.hagrid16_2, R.string.hagrid16_3, R.string.hagrid16_4};
+    	int[] hagrid16sound = {R.raw.hagrid16};
+    	conversation.add(new Portrait(this, R.drawable.hagrid16, hagrid16text, hagrid16sound));
     	conversation.add(new Portrait(this, R.drawable.harry16, R.string.harry16, R.raw.harry16));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid17, R.string.hagrid17, R.raw.hagrid17));
+    	int[] hagrid17text = {R.string.hagrid17, R.string.hagrid17_1, R.string.hagrid17_2};
+    	int[] hagrid17sound = {R.raw.hagrid17};
+    	conversation.add(new Portrait(this, R.drawable.hagrid17, hagrid17text, hagrid17sound));
     	conversation.add(new Portrait(this, R.drawable.harry17, R.string.harry17, R.raw.harry17));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid18, R.string.hagrid18, R.raw.hagrid18));
-    	conversation.add(new Portrait(this, R.drawable.harry18, R.string.harry18, R.raw.harry18));
+    	int[] hagrid18text = {R.string.hagrid18, R.string.hagrid18_1};
+    	int[] hagrid18sound = {R.raw.hagrid18};
+    	conversation.add(new Portrait(this, R.drawable.hagrid18, hagrid18text, hagrid18sound));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid19, R.string.hagrid19, R.raw.hagrid19));
+    	int[] harry18text = {R.string.harry18, R.string.harry18_1, R.string.harry18_2};
+    	int[] harry18sound = {R.raw.harry18};
+    	conversation.add(new Portrait(this, R.drawable.harry18, harry18text, harry18sound));
+    	
+    	int[] hagrid19text = {R.string.hagrid19, R.string.hagrid19_1, R.string.hagrid19_2, R.string.hagrid19_3, R.string.hagrid19_4, R.string.hagrid19_5};
+    	int[] hagrid19sound = {R.raw.hagrid19};
+    	conversation.add(new Portrait(this, R.drawable.hagrid19, hagrid19text, hagrid19sound));
     	conversation.add(new Portrait(this, R.drawable.harry19, R.string.harry19, R.raw.harry19));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid20, R.string.hagrid20, R.raw.hagrid20));
+    	int[] hagrid20text = {R.string.hagrid20, R.string.hagrid20_1, R.string.hagrid20_2, R.string.hagrid20_3};
+    	int[] hagrid20sound = {R.raw.hagrid20};
+    	conversation.add(new Portrait(this, R.drawable.hagrid20, hagrid20text, hagrid20sound));
     	conversation.add(new Portrait(this, R.drawable.harry20, R.string.harry20, R.raw.harry20));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid21, R.string.hagrid21, R.raw.hagrid21));
+    	int[] hagrid21text = {R.string.hagrid21, R.string.hagrid21_1, R.string.hagrid21_2, R.string.hagrid21_3};
+    	int[] hagrid21sound = {R.raw.hagrid21};
+    	conversation.add(new Portrait(this, R.drawable.hagrid21, hagrid21text, hagrid21sound));
     	conversation.add(new Portrait(this, R.drawable.harry21, R.string.harry21, R.raw.harry21));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid22, R.string.hagrid22, R.raw.hagrid22));
+    	int[] hagrid22text = {R.string.hagrid22, R.string.hagrid22_1, R.string.hagrid22_2};
+    	int[] hagrid22sound = {R.raw.hagrid22};
+    	conversation.add(new Portrait(this, R.drawable.hagrid22, hagrid22text, hagrid22sound));
     	conversation.add(new Portrait(this, R.drawable.harry22, R.string.harry22, R.raw.harry22));
     	
     	conversation.add(new Portrait(this, R.drawable.hagrid23, R.string.hagrid23, R.raw.hagrid23));
-    	conversation.add(new Portrait(this, R.drawable.harry23, R.string.harry23, R.raw.harry23));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid24, R.string.hagrid24, R.raw.hagrid24));
-    	conversation.add(new Portrait(this, R.drawable.harry24, R.string.harry24, R.raw.harry24));
+    	int[] harry23text = {R.string.harry23, R.string.harry23_1, R.string.harry23_2, R.string.harry23_3};
+    	int[] harry23sound = {R.raw.harry23};
+    	conversation.add(new Portrait(this, R.drawable.harry23, harry23text, harry23sound));
     	
-    	conversation.add(new Portrait(this, R.drawable.hagrid25, R.string.hagrid25, R.raw.hagrid25));
+    	int[] hagrid24text = {R.string.hagrid24, R.string.hagrid24_1, R.string.hagrid24_2, R.string.hagrid24_3};
+    	int[] hagrid24sound = {R.raw.hagrid24};
+    	conversation.add(new Portrait(this, R.drawable.hagrid24, hagrid24text, hagrid24sound));
+    	
+    	int[] harry24text = {R.string.harry24, R.string.harry24_1, R.string.harry24_2, R.string.harry24_3};
+    	int[] harry24sound = {R.raw.harry24};
+    	conversation.add(new Portrait(this, R.drawable.harry24, harry24text, harry24sound));
+    	
+    	int[] hagrid25text = {R.string.hagrid25, R.string.hagrid25_1, R.string.hagrid25_2, R.string.hagrid25_3, R.string.hagrid25_4};
+    	int[] hagrid25sound = {R.raw.hagrid25};
+    	conversation.add(new Portrait(this, R.drawable.hagrid25, hagrid25text, hagrid25sound));
     }
 }

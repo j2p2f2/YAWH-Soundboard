@@ -30,4 +30,20 @@ public class CustomMediaPlayer
 			Log.v("SoundPlayer", "SoundPlayer: playSound: Exception: " + e.toString());
 		}
 	}
+	
+	public void stopSound()
+	{
+		try
+		{
+			mediaPlayer.stop();
+		}
+		catch(IllegalStateException ise)
+		{
+			Log.v("SoundPlayer", "SoundPlayer: playSound: IllegalStateException: " + ise.toString());
+		}
+		catch(Exception e)
+		{
+			Log.v("SoundPlayer", "SoundPlayer: playSound: Exception: " + e.toString());
+		}
+	}
 }

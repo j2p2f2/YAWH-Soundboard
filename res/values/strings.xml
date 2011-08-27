@@ -37,42 +37,92 @@
     
     <string name="hagrid12">HARRY! you are a wizard!</string>    
     <string name="harry12">Listen here, Hagrid, you FAT OAF! I\'m not a FUCKING WIZARD!</string>
+    <string name="harry12.1">you FAT OAF!</string>
+    <string name="harry12.2">I\'m not a FUCKING WIZARD!</string>
     
-    <string name="hagrid13">For God\'s Sake, Harry, what is with this language!? You\'re a FUCKING WIZARD!</string>    
+    <string name="hagrid13">For God\'s Sake, Harry, what is with this language!? You\'re a FUCKING WIZARD!</string>
+    <string name="hagrid13.1">You\'re a FUCKING WIZARD!</string> 
     <string name="harry13">I don\'t give a FUCK you FAT HAIRY BASTARD! I\'m not a FUCKING WIZARD!</string>
+    <string name="harry13.1">I don\'t give a FUCK</string>
+    <string name="harry13.2">you FAT HAIRY BASTARD!</string>
     
-    <string name="hagrid14">Listen, Harry You\'re going to go to Hogwarts and do SPELLS and SHIT. and you\'re gonna be FUCKING PLEASED about it!</string>    
+    <string name="hagrid14">Listen, Harry You\'re going to go to Hogwarts and do SPELLS and SHIT. and you\'re gonna be FUCKING PLEASED about it!</string>
+    <string name="hagrid14.1">You\'re going to go to Hogwards and do SPELLS and SHIT</string>
+    <string name="hagrid14.2">SPELLS and SHIT</string>
+    <string name="hagrid14.3">you\'re gonna be FUCKING PLEASED about it!</string>
     <string name="harry14">I don\'t WANT to do your FUCKING SPELLS you BASKET-CASE ...stick it up your FUCKING DICK-HOLE</string>
+    <string name="harry14.1">I don\'t WANT to do your FUCKING SPELLS you BASKET-CASE</string>
+    <string name="harry14.2">FUCKING SPELLS</string>
+    <string name="harry14.3">BASKET-CASE</string>
+    <string name="harry14.4">stick it up your FUCKING DICK-HOLE</string>
+    <string name="harry14.5">FUCKING DICK-HOLE</string>
     
     <string name="hagrid15">My FUCKING WHAT!?!?</string>    
     <string name="harry15">HAGRID yer\' pushing me over the FUCKING LINE!</string>
+    <string name="harry15.1">yer\' pushing me over the FUCKING LINE!</string>
     
-    <string name="hagrid16">No, I\'m not. You are a wizard! You\'re gonna go to Hogwarts. You\'re gonna do spells, you get a wand, you get a fucking owl, it\'ll deliver your mail, DEAL WITH IT ya TWAT!</string>    
+    <string name="hagrid16">No, I\'m not. You are a wizard! You\'re gonna go to Hogwarts. You\'re gonna do spells, you get a wand, you get a fucking owl, it\'ll deliver your mail, DEAL WITH IT ya TWAT!</string>
+    <string name="hagrid16.1">No, I\'m not.</string>
+    <string name="hagrid16.2">DEAL WITH IT ya TWAT</string>
+    <string name="hagrid16.3">DEAL WITH IT</string>
+    <string name="hagrid16.4">ya TWAT</string>
     <string name="harry16">I\'M GONNA FUCKEN PUT MAH DICK IN THE OWL!</string>
     
-    <string name="hagrid17">I did that when I was younger, and that was a bad move, you are a wizard...</string>    
+    <string name="hagrid17">I did that when I was younger, and that was a bad move, you are a wizard...</string>
+    <string name="hagrid17.1">I did that when I was younger, and that was a bad move</string>
+    <string name="hagrid17.2">that was a bad move</string>
     <string name="harry17">I\'m a WHAT!?</string>
     
-    <string name="hagrid18">YOU\'RE A WIZARD FOR FUCK\'S SAKE LIST TO MEH</string>    
+    <string name="hagrid18">YOU\'RE A WIZARD FOR FUCK\'S SAKE LISTEN TO MEH</string>
+    <string name="hagrid18.1">FOR FUCK\'S SAKE LISTEN TO MEH</string>
     <string name="harry18">Hagrid I\'ve been through this I don\'t give a BLOODY FUCK WHAT YOU THINK!</string>
+    <string name="harry18.1">I don\'t give a BLOODY FUCK WHAT YOU THINK!</string>
+    <string name="harry18.2">a BLOODY FUCK</string>
     
-    <string name="hagrid19">This is NOT negotiable! You come with me, you SPECCY BOWL-HAIRED CUT FUCK SMALL DICK SKINNY CUNT EAT MORE WANKER</string>    
+    <string name="hagrid19">This is NOT negotiable! You come with me, you SPECCY BOWL-HAIRED CUT FUCK SMALL DICK SKINNY CUNT EAT MORE WANKER</string>
+    <string name="hagrid19.1">This is NOT negotiable!</string>
+    <string name="hagrid19.2">SPECCY BOWL-HAIRED CUT FUCK</string>
+    <string name="hagrid19.3">SMALL DICK</string>
+    <string name="hagrid19.4">SKINNY CUNT EAT MORE</string>
+    <string name="hagrid19.5">WANKER</string>
     <string name="harry19">I\'ll FUCKEN SET YER\' BEARD ON FIRE!</string>
     
-    <string name="hagrid20">MON\' THEN YA\' LITTLE SPECCY CUNT SQUARE GO LIKE\'</string>    
+    <string name="hagrid20">MON\' THEN YA\' LITTLE SPECCY CUNT SQUARE GO LIKE\'</string>
+    <string name="hagrid20.1">MON\' THEN</string> 
+    <string name="hagrid20.2">YA\' LITTLE SPECCY CUNT</string>
+    <string name="hagrid20.3">SQUARE GO LIKE\'</string>
     <string name="harry20">I\'LL FUCKEN BURST YE\'</string>
     
-    <string name="hagrid21">Right you, ya\' little wank stain. If you don\'t get your act together, I\'m gonna drag you to hogwarts. You\'ll get a wand, You\'ll get an owl that\'ll deliver your SHITEY MAIL and that\'ll be that and you\'ll enjoy it ya\' shhchhhchshhh chinky.</string>    
+    <string name="hagrid21">Right you, ya\' little wank stain. If you don\'t get your act together, I\'m gonna drag you to hogwarts. You\'ll get a wand, You\'ll get an owl that\'ll deliver your SHITEY MAIL and that\'ll be that and you\'ll enjoy it ya\' shhchhhchshhh chinky.</string>
+    <string name="hagrid21.1">ya\' little wank stain.</string>  
+    <string name="hagrid21.2">SHITEY MAIL</string>
+    <string name="hagrid21.3">ya\' shhchhhchshhh chinky</string>
     <string name="harry21">I\'ll fucken\' NAW yer\' ARM OFF Hagrid.</string>
     
-    <string name="hagrid22">Listen you, get near my arm, and I\'ll slap you like a little BITCH</string>    
+    <string name="hagrid22">Listen you, get near my arm, and I\'ll slap you like a little BITCH</string>
+    <string name="hagrid22.1">I\'ll slap you like a little BITCH</string>
+    <string name="hagrid22.2">little BITCH</string>
     <string name="harry22">I\'ll PUMP YE\' SILLY</string>
     
     <string name="hagrid23">C\'mon then ya\' CUNT</string>    
     <string name="harry23">SUCK MAH PIXIE DICK YA CHUBBY COON</string>
+    <string name="harry23.1">SUCK MAH PIXIE DICK</string>
+    <string name="harry23.2">PIXIE DICK</string>
+    <string name="harry23.3">YA CHUBBY COON</string>
     
-    <string name="hagrid24">I\'LL RUPTURE YOUR FUCKEN ANUS WITH MAH MASSIVE BEAR COCK</string>    
+    <string name="hagrid24">I\'LL RUPTURE YOUR FUCKEN ANUS WITH MAH MASSIVE BEAR COCK</string>
+    <string name="hagrid24.1">I\'LL RUPTURE YOUR FUCKEN ANUS</string>
+    <string name="hagrid24.2">FUCKEN ANUS</string>
+    <string name="hagrid24.3">MASSIVE BEAR COCK</string>  
     <string name="harry24">I\'LL RIP YER GIANT DICK OFF AND BASH YE\' ACROSS THE JAW WITH IT</string>
+    <string name="harry24.1">I\'LL RIP YER GIANT DICK OFF</string>
+    <string name="harry24.2">GIANT DICK</string>
+    <string name="harry24.3">BASH YE\' ACROSS THE JAW WITH IT</string>
     
-    <string name="hagrid25">LES\' GO RIGHT NOW BRING IT ON YA LITTLE WANK</string>    
-</resources>
+    <string name="hagrid25">LES\' GO RIGHT NOW BRING IT ON YA LITTLE WANK</string>
+    <string name="hagrid25.1">LES\' GO</string>   
+    <string name="hagrid25.2">RIGHT NOW</string>
+    <string name="hagrid25.3">BRING IT ON</string>
+    <string name="hagrid25.4">YA LITTLE WANK</string>
+    
+    </resources>
